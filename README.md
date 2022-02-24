@@ -1,6 +1,6 @@
 # SparkFun-Thing-Plus-RP2040-Pinout
 
-I notied the Thing Plus RP2040 didn't have a pinout available, so I tried my hand at making my own. Enjoy!
+I noticed the Thing Plus RP2040 didn't have a pinout available, so I tried my hand at making my own. Enjoy!
 
 If you want to edit it, download the .drawio file and open it on the https://app.diagrams.net website. And feel free to open a PR when you're done. 
 
